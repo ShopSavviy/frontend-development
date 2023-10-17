@@ -805,16 +805,6 @@
     color: var(--shopsavvycom-pale-sky);
 }
 
-.get-the-app {
-    position: relative;
-    letter-spacing: 0.35px;
-    line-height: 20px;
-    text-transform: uppercase;
-    font-weight: 600;
-    display: inline-block;
-    max-width: 512px;
-}
-
 .heading-35 {
     position: absolute;
     width: 100%;
